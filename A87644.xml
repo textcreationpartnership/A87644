@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and boody fight in Shropshire: Shrowden suprized by a troop of horse for the King. And the fight with Coll: Mackworth. The number of the Lord Byrons army, and their randezvouz at Brees-Heath. Prince Charles his instructions, with Sir Marmaduke Langdales letter to the Lord Byron: the Lord Byrons declaration to the kingdom, and his resolutions. With his lordships speech in the head of his army at Brees-Heath.</title>
+            <author>Jones, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87644</idno>
+            <idno type="STC">Wing J987</idno>
+            <idno type="STC">Thomason E457_18</idno>
+            <idno type="STC">ESTC R204993</idno>
+            <idno type="EEBO-CITATION">99864439</idno>
+            <idno type="PROQUEST">99864439</idno>
+            <idno type="VID">116668</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116668)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E457[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and boody fight in Shropshire: Shrowden suprized by a troop of horse for the King. And the fight with Coll: Mackworth. The number of the Lord Byrons army, and their randezvouz at Brees-Heath. Prince Charles his instructions, with Sir Marmaduke Langdales letter to the Lord Byron: the Lord Byrons declaration to the kingdom, and his resolutions. With his lordships speech in the head of his army at Brees-Heath.</title>
+                  <author>Jones, Robert.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.H. neer Pye-corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed on p.3: Shrewsbury this 6th of August 1648. Robert Jones.</note>
+                  <note>Annotation on Thomason copy: "Aug: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116668:1" rendition="simple:additions"/>
+            <p>A GREAT And Bloody Fight IN SHROPSHIRE: <hi>Shrowden</hi> ſurprized by a Troop of horſe for the KING. And the Fight with Coll: <hi>Mackworth.</hi>
+            </p>
+            <p>THE Number of the Lord <hi>Byrons</hi> Army, and their Randezvouz at <hi>Breeſ-Heath.</hi>
+            </p>
+            <p>Prince <hi>Charles</hi> his Inſtructions, with Sir <hi>Marmaduke Langdales</hi> Letter to the Lord <hi>Byron:</hi> The Lord <hi>Byrons</hi> Declarati<g ref="char:EOLhyphen"/>on to the Kingdom, and his Reſolutions. WITH His Lordſhips Speech in the Head of his Army at <hi>Breeſ-Heath.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for A. H. neer Pye-corner, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:116668:2"/>
+            <head>A Great and bloody fight in <hi>Shropſhire, Shrowden</hi> ſurprized by a Troop of Horſe for the <hi>KING.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen <hi>Poyer</hi> was reduced in South-Wales, ſome thought all was ſettled in theſe parts, and that Principallity, but it ſeemes not ſo now, for there is a new breaking out, and the Cavaliers very bold and reſolute, The Lord <hi>Byron</hi> hath Liſted a compleate Regiament of Horſe, and hath Declared for the King, I have ſent you his Declaration, here incloſed, The particulars of this new riſing are thus.</p>
+            <p>The Lord <hi>Byron</hi> received Inſtructions from Sir <hi>Marmaduke Langdale,</hi> which he ſaith he had Order from His Highneſſe Prince <hi>Charles</hi> for. The reaſon of them was certified in a letter from Sir <hi>Marmaduke Langdale</hi> to the Lord <hi>Byron,</hi> That His Highneſſe Prince <hi>Charles</hi> wondered that his Lordſhip was ſo backward, and had already loſt ſo many opportu<g ref="char:EOLhyphen"/>nities, that he expected formerly that he ſhould have drawn forth his Regiament to have releived <hi>Pembroke,</hi> or ſeized <hi>Cheſter,</hi> or ſome other conſiderable hold. But that ſeeing what is paſt cannot bee recalled, he would have the Lord
+<pb n="2" facs="tcp:116668:3"/>
+               <hi>Byron</hi> to take the advantage of <hi>Crumwells</hi> going northward and riſe and poſſeſſe himſelfe of what places of ſtrength he can, and uſe his utmoſt power to draw backe the Forces with <hi>Crumwell,</hi> aſſuring his Lordſhip that there ſhall be aſ<g ref="char:EOLhyphen"/>ſiſtance come from the North to joyne with him, by the way of <hi>Lancaſhire:</hi> And that Inſtructions are given to the Earle of <hi>Derby</hi> whereby there is aſſurance given, that the Kings party will riſe there under his command upon the firſt opportunity, which he hopes will be ſuddainly, here<g ref="char:EOLhyphen"/>upon the Lord <hi>Byron</hi> had ſeveral meetings with his Officers, and at laſt compleated his Regiament of Horſe, And ap<g ref="char:EOLhyphen"/>pointed a Randezvouze at <hi>Breeſe-</hi>Heath, one Troope of Horſe was appointed by his Lordſhip to march to the City of <hi>Shrewsbury,</hi> and ſecure it for His Majeſty; And according<g ref="char:EOLhyphen"/>ly a very gallant Troope marched thither ward which gave an Alarum to Col. <hi>Mackworth</hi> the Governour of <hi>Salop</hi> for the Parliament, who prepared to oppoſe them, but before he could be ready, the Cavaliers were entred <hi>Shrewsbury</hi> and cryed out. <hi>For the King and the Lord Byron.</hi>
+            </p>
+            <p>But they were oppoſed by Captaine <hi>Allen,</hi> from Colonel <hi>Mackworth,</hi> and forced out of the Town againe, divers be<g ref="char:EOLhyphen"/>ing killed and wounded on both ſides, and ſome taken pri<g ref="char:EOLhyphen"/>ſoners:</p>
+            <p>At this oppoſition which they found, they being forced to diſcert that attempt, They marched to the Lord <hi>Byron,</hi> who was then at <hi>Breeſe-</hi>Heath, at his Randezvouze. There were of Col. <hi>Mackworthes</hi> party ſome ſlaine, and Capt. <hi>Allen</hi> much wounded, a very honeſt gallant man, for whom there is much ſorrow. The Lord <hi>Byron</hi> upon the comming of this Troope to him at <hi>Breeſe-</hi>Heath, hearing what was done, is marched with about 500 Horſe into <hi>Wales,</hi> what his Lordſhip intends is not knowne at preſent, but it is beleeved hee will march towards <hi>Carnarven,</hi> though ſome thinke he will attempt the taking of <hi>Cheſter,</hi> but of that I ſhall give you a further account by the next. The wel-affected to the Parliament (hereabouts) are in a great fear of theſe Cavaliers, not knowing what they may ſuffer. But this Troope that came towards this City hath ſo rouzed
+<pb n="3" facs="tcp:116668:3"/>
+us, that I beleeve the Inhabitants will be more watchfull, We have taken the Lady <hi>Haris,</hi> and divers other priſoners, who had an hand in this buſineſſe. This to communicate at preſent, I pray you accept it from</p>
+            <closer>
+               <signed>Your Servant,
+Robert Jones.</signed>
+               <dateline>
+                  <hi>Shrewsbury</hi> 
+                  <date>this 6th <hi>of Auguſt</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>
+               <hi>The ſubſtance of the Lord</hi> Byrons <hi>Declaration.</hi>
+            </head>
+            <p>
+               <hi>THat whereas his Highneſſe Prince</hi> Charles, <hi>de<g ref="char:EOLhyphen"/>clared unto Coll.</hi> Poyer, <hi>Coll.</hi> Powel, <hi>and others, by Letters under his highneſſe hand and ſeale: Thus, Viz.</hi> We have ſeen your Declaration, and received your letter, and are extreamly ſatisfied with the many expreſſions we finde in them, of your great zeale and affection to the King our Royall Father, and to us: We have much reaſon to be aſſured of the loyalty and integrity of your intentions, when we conſider the proſent conjunctures and ſeaſonable<g ref="char:EOLhyphen"/>neſſe of your appearing in Armes, and declaring your ſelves for his Ma<g ref="char:EOLhyphen"/>jeſty at this time, when the concurrence of others with you in the ſame good deſigne, may give us more then an ordinary hope of good ſucceſſe, and that you and they may be a mutuall ſupport and aſſiſtance to each o<g ref="char:EOLhyphen"/>ther. The Anſwers we have herewith ſent to your Propoſitions will we hope let you ſee how ready we are to imbrace all things, that may give you encouragement to proceed cheerfully and conſtantly in this cauſe, and the modeſty you have uſed therein ſhall invite us to lay hold of all occaſions, to oblige perſons that ingage themſelves in ſo great an undertaking, with ſuch reaſonable demands for themſelves. And we aſſure you, that we ſhall be carefull, to ſupply and aſſiſt you in all things to the uttermoſt of our power. And if it pleaſe God to bleſſe us with ſucceſſe, we ſhall endevour by all reall effects of kindneſſe to let you ſee how truly ſenſible we are of your merit, and of the obligation we ac<g ref="char:EOLhyphen"/>knowledge to have to you.</p>
+            <p>
+               <pb n="4" facs="tcp:116668:4"/>
+               <hi>And notwithſtanding their endeavours herein, yet by a party of the Sectaries Army, they have been di<g ref="char:EOLhyphen"/>verted, and their Forces overpowred; That all ſuch who will come and joyn with him, ſhall be received, and liſted for the reſcuing of his Majeſty, from im<g ref="char:EOLhyphen"/>priſonment under the Sectaries, and that his Majeſty may be brought to</hi> London, <hi>and enjoy his juſt honours, freedoms, and Rights, the Parliament be free, and the Kingdoms ſetled in peace; And that for this purpoſe the Scots forces are come into</hi> England, <hi>under com<g ref="char:EOLhyphen"/>mand of Duke</hi> Hambleton, <hi>with whom he will joyn for the ends aforeſaid.</hi>
+            </p>
+            <closer>
+               <signed>BYRON.</signed>
+            </closer>
+         </div>
+         <div type="instructions">
+            <head>INSTRUCTIONS Given to the Lord BYRON.</head>
+            <p>THat his Lordſhip compleat his Re<g ref="char:EOLhyphen"/>giament of Horſe with all ſpeed, to be full in every Troop.</p>
+            <p>That his Lordſhip have ſpeedily a ran<g ref="char:EOLhyphen"/>dezvous of his horſe, &amp; ſettle the Troops</p>
+            <p>
+               <pb n="5" facs="tcp:116668:4"/>
+That his Lordſhip uſe his endevour for the ſurpriſall of the City of <hi>Salop,</hi> for the Kings Majeſty.</p>
+            <p>That his Lordſhip put in a ſufficient ſtrength of Foot into <hi>Shrewsbury,</hi> to keep it for his Majeſty, and make the works ſubſtantiall, and good.</p>
+            <p>That his Lordſhip take advice here<g ref="char:EOLhyphen"/>in with the Gentlemen appointed for ma<g ref="char:EOLhyphen"/>nagement of the buſineſſe of the foure Aſ<g ref="char:EOLhyphen"/>ſotiated Counties,</p>
+            <p>That his Lordſhip keepe correſpon<g ref="char:EOLhyphen"/>dency with Sir <hi>Marmaduke Langdale,</hi> and uſe all means to make a conjunction ſo ſoon as may bee.</p>
+            <p>That his Lordſhip order the monies according to his Lordſhips former inſtru<g ref="char:EOLhyphen"/>ctions, and make faire and ſpecious pre<g ref="char:EOLhyphen"/>tences to the Country.</p>
+         </div>
+         <div type="speech">
+            <pb n="6" facs="tcp:116668:5"/>
+            <head>
+               <hi>The Lord</hi> Byrons <hi>Speech in the Head of his Forces at</hi> Breeſe-heath <hi>in</hi> Shropſhire.</head>
+            <opener>
+               <salute>Gentlemen and Fellow Souldiers.</salute>
+            </opener>
+            <p>I Thanke you for your ſo chearefull and ready comming to mee, and I deſire you be couragious, the cauſe wee have in hand, and are to maintain, is for God, and King <hi>Charles,</hi> a free Parliament, and the peace of his Majeſties three Kingdomes, you have the Scots on your ſide, and the City of <hi>London,</hi> with all the wel-affected in <hi>England;</hi> yea, and the <hi>Iriſh</hi> alſo joyn with you in oppoſing his Majeſties Enemies, who have nothing left them but an Army of Sectaries for their ſup<g ref="char:EOLhyphen"/>port; And I ſhall not only lead you on, but ſtay by you to bring you off, upon any in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agement againſt our and the Kings Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
